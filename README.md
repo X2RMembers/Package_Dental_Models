@@ -1,2 +1,2 @@
-# X2RDentalModels
+# X2R Package Dental Models
  
