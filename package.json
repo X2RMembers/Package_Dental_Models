@@ -1,8 +1,8 @@
 {
   "name": "com.x2r.dentalmodels",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "[X2R] Dental Models",
-  "description": "Dental Models Version 1.0.0",
+  "description": "1.0.1\nAdd Joe's Scanned Model\n\nDental Models Version 1.0.0",
   "unity": "2022.1",
   "unityRelease": "16f1",
   "documentationUrl": "https://example.com/",
